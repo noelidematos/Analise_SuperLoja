@@ -29,6 +29,6 @@ vizando o aumento nas vendas.
 Os 10 produtos mais vendidos, não são os mais lucrativos para o negócio.
 
 # Conclusão
-Neste projeto foi possível um melhor entendimento da base de dados, identificar comportamentos, padrões dos consumidores e tomar decisões mais assertivas para negócio.
+Neste projeto foi possível um melhor entendimento da base de dados, identificar comportamentos, padrões dos consumidores e ter insights valiosos para negócio.
 
-A análise dos dados permite que se compreenda o mercado e o perfil do público da sua marca, quais as tendências para seu nicho para traçar estratégias mais assertivas.
+A análise dos dados permite que se compreenda  o perfil do público da sua marca, quais as tendências para seu nicho buscando se tornar mais competitivo no mercado. 
