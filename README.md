@@ -1,4 +1,4 @@
-# Analíse_SuperLoja
+
 # Introdução
 
 Os dados utilizados na analíse podem ser encontrados no site: https://www.kaggle.com/datasets
